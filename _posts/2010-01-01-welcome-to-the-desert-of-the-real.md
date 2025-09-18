@@ -1,13 +1,13 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2025-09-18 07:44:24
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Bienvenidos a mi sitio web :) 
+subtitle: 'Taller de Computación.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Ffondo-color-vino&psig=AOvVaw1wPn-Y0Jk6YLyu_ibQROE1&ust=1758285758851000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjouOmr4o8DFQAAAAAdAAAAABAW.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
