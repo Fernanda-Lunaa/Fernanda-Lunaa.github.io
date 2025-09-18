@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Fernanda Luna
+title:   Ferflix | A blog theme for Jekyll
+description: Ferflix is a template for Fer inspired by Netflix and made by
+  Fernanda Luna.
 tags:
   - blog
   - template
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 250300575@ucaribe.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: Fernanda-Lunaa
+facebook_username: Fernanda Luna
+twitter_username: MaFer_2112
+instagram_username: mafer.sznn
+linkedin_username: Luna_Fer213
+medium_username: ferz.0807
 
 
 # Posts Settings
